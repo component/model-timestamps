@@ -1,0 +1,13 @@
+{
+  "name": "model-timestamps",
+  "repo": "component/model-timestamps",
+  "description": "created_at / updated_at for model",
+  "version": "0.0.1",
+  "keywords": ["model", "plugin", "date", "timestamp", "timestamps"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
