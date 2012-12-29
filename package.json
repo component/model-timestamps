@@ -1,0 +1,8 @@
+{
+  "name": "model-timestamps",
+  "version": "0.0.1",
+  "description": "timestamps for models",
+  "main": "index.js",
+  "keywords": ["timestamp", "model", "plugin"],
+ "license": "MIT"
+}
